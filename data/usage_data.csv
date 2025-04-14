@@ -1,0 +1,5 @@
+service,usage_hours,storage_gb,invocations
+EC2,120,0,0
+S3,0,50,0
+Lambda,0,0,500000
+RDS,80,0,0
