@@ -14,8 +14,10 @@ A lightweight Streamlit dashboard that analyzes AWS cloud service usage (EC2, S3
 ---
 
 ## 📊 Preview
+![Screenshot 2025-04-14 213716](https://github.com/user-attachments/assets/da24d6e5-9ff9-4b09-a246-1d86cf2800b1)
+![Screenshot 2025-04-14 213725](https://github.com/user-attachments/assets/8120b508-741c-425c-8014-db7ab18633cf)
 
-Add a screenshot here once your GitHub repo is ready!
+
 
 ---
 
